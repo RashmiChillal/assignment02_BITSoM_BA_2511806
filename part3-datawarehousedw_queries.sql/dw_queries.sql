@@ -1,9 +1,9 @@
-/*
+---------------------------------------------------------
 Part 3 — Data Warehouse Analytical Queries (OLAP)
 
 These queries are designed to perform analytical operations
 on the star schema (fact_sales + dimensions).
-*/
+----------------------------------------------------------
 -- Q1: Total sales revenue by product category for each month
 
 SELECT 
